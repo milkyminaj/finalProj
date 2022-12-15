@@ -1,0 +1,6 @@
+Jika ingin menggunakan fitur library Mpdf, silahkan download terlebih dahulu
+library serta vendor di dalam folder ini.
+
+link dan petunjuk download library Mpdf :
+- https://github.com/mpdf/mpdf (download Mpdf)
+- https://www.niagahoster.co.id/blog/cara-install-composer/ (install composer)
