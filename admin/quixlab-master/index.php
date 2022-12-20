@@ -28,11 +28,10 @@
         session_destroy();
         header("location:/edu_news/admin/login.php");
     }
-    ?>
-    <!--**********************************
+    ?>    <!--**********************************
         Main wrapper start
     ***********************************-->
-    <div id="main-wrapper">
+    <div >
 
         <!--**********************************
             Nav header start
